@@ -13,6 +13,9 @@
 ## Installation
 *Steps required to install project and how to get the development environment running:*
 You can view the application live on [Heroku](https://floating-beach-09093.herokuapp.com/).
+
+## Usage
+![alt screenshot](public\assets\notetakerdemo.gif)
 ## Credits
 The frontend was already provided. I went to Quinton's review session for help on this assignment.
 ## License
