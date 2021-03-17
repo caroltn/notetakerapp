@@ -15,7 +15,7 @@
 You can view the application live on [Heroku](https://floating-beach-09093.herokuapp.com/).
 
 ## Usage
-![alt screenshot](public\assets\notetakerdemo.gif)
+![alt screenshot](https://github.com/caroltn/notetakerapp/blob/0e1f57dbb6856a7e4926fa4ffae96ba09dd5dd83/public/assets/notetakerdemo.gif)
 ## Credits
 The frontend was already provided. I went to Quinton's review session for help on this assignment.
 ## License
