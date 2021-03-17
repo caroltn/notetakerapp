@@ -12,9 +12,7 @@
 - [License](#license)
 ## Installation
 *Steps required to install project and how to get the development environment running:*
-You can view the application live on Heroku.
-+
-/+321
+You can view the application live on [Heroku](https://floating-beach-09093.herokuapp.com/).
 ## Credits
 The frontend was already provided. I went to Quinton's review session for help on this assignment.
 ## License
