@@ -1,0 +1,27 @@
+{
+  "name": "note-taker",
+  "version": "1.0.0",
+  "description": "![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)\r ![license](https://img.shields.io/badge/license-MIT-brightgreen)\r ## Description\r - undefined\r - To practice using backend to save and retrieve data from the frontend.\r - \r ## Table of Contents\r - [Installation](#installation)\r - [Usage](#usage)\r - [Credits](#credits)\r - [License](#license)\r ## Installation\r *Steps required to install project and how to get the development environment running:*\r You can view the application live on Heroku.\r +\r /+321\r ## Credits\r The frontend was already provided. I went to Quinton's review session for help on this assignment.\r ## License\r Copyright (c) 2021 Carol Nguyen\r This project is [MIT](https://choosealicense.com/licenses/mit/) Licensed.\r ## Questions",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "path": "^0.12.7",
+    "uuid": "^8.3.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caroltn/notetakerapp.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/caroltn/notetakerapp/issues"
+  },
+  "homepage": "https://github.com/caroltn/notetakerapp#readme"
+}
